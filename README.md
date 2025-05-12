@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="left">🛠️ Ce que je sais utiliser sans paniquer 😅</h3>
+<h3 align="left">🛠️ Ce que je sais utiliser sans paniquer 😂</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
