@@ -47,6 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="Cplusplus/>
 </div>
+    <br>
 <h3 align="left">📫 Tu veux discuter code, projet ou café ?</h3>
 
 <p align="left">
